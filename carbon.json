@@ -1,25 +1,25 @@
 {
   "pages": [{
-    "name": "Home",
+    "name": "Introduction",
     "doc": "index"
   },
   {
-    "name": "About",
+    "name": "Paramaters",
     "doc": "about"
   },
   {
-    "name": "Development",
-    "doc": "README"
+    "name": "Checking Emails",
+    "doc": "emails"
   }],
   "logo": "carbon.png",
   "action": {
-    "URL": "//carbon.toggled.tech",
-    "text": "Try Carbon"
+    "URL": "mailto:info@toggled.tech",
+    "text": "Get an API Key"
   },
-  "title": "Carbon Starter",
+  "title": "EmailSync Docs",
+  "favicon": "carbon.png",
   "branding": {
     "copyright": "Toggled.tech",
     "URL": "//toggled.tech"
-  },
-  "script": "console.log('TEST SCRIPT!')"
+  }
 }
