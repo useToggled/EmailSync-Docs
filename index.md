@@ -1,9 +1,9 @@
-# Welcome to Carbon
+# Welcome to EmailSync
 
-Thanks for choosing Carbon to make your site. We know there are a lot of choices so it means a lot!
+EmailSync makes email verification ten times simpler for users and developers.
 
-Carbon provides a simple yet effective way to create websites.
+EmailSync allows you to link your IP to your email address so that any sites supporting our software can identify that you own that email address.
 
-Using markdown the possibilities are endless. Plus we plan to expand to MarkdownX in the future.
+We also have built-in email verification in case the user hasn't already verified their email.
 
-Find more info about Carbon on the [homepage](https://carbon.toggled.tech).
+Verify your email now on the [homepage](https://anti-verification.cosmixcom.repl.co).
