@@ -1,3 +1,8 @@
+---
+title: EmailSync
+description: Sync Emails
+---
+
 # Parameters
 Control different aspects of checking emails with parameters and actions.
 
